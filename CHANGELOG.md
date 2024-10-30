@@ -1,4 +1,5 @@
 # Changelog
 
-## 1.0.0 - YYYY-MM-DD
+## 1.0.0 - 2024-10-30
 - Initial release.
+

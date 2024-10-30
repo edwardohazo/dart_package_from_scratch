@@ -1,7 +1,7 @@
 name: git 
 description: My Dart Course Package.
 version: 1.0.0
-# repository: https://github.com/my_org/my_repo
+repository: https://github.com/edwardohazo/dart_package_from_scratch.git
 
 environment:
   sdk: ^3.4.4
