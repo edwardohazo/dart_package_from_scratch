@@ -15,3 +15,6 @@
 ## 1.0.4 - 2024-10-31
 - Adding lib dir with a calculator.
 
+## 1.0.5 - 2024-10-31
+- Adding new wato executable.
+

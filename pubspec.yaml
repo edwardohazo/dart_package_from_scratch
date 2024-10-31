@@ -1,6 +1,6 @@
 name: dart_package_from_scratch_by_wago 
 description: My Dart Course Package.
-version: 1.0.4
+version: 1.0.5
 repository: https://github.com/edwardohazo/dart_package_from_scratch.git
 
 environment:
@@ -8,6 +8,7 @@ environment:
 
 executables:
   wago_script: wago_script
+  wato_says_hi: wato_script
 
 dependencies:
   path: ^1.8.0
