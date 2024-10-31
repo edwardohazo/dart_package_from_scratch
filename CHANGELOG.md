@@ -9,3 +9,6 @@
 ## 1.0.2 - 2024-10-31
 - Removing executables on pubspec.yaml.
 
+## 1.0.3 - 2024-10-31
+- Adding executables on pubspec.yaml.
+
