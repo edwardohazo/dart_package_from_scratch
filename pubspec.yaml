@@ -7,9 +7,7 @@ environment:
   sdk: ^3.4.4
 
 executables:
-  wago: wago_script
-
-publish_to: 'https://pub.dev'
+  wago_script: wago_script.dart
 
 dependencies:
   path: ^1.8.0
