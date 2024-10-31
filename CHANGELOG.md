@@ -12,3 +12,6 @@
 ## 1.0.3 - 2024-10-31
 - Adding executables on pubspec.yaml.
 
+## 1.0.4 - 2024-10-31
+- Adding lib dir with a calculator.
+
